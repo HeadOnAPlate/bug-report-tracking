@@ -12,10 +12,14 @@ Overview of opened issues, so I don't forget about these
 
 ## jetbrains
 
-* https://youtrack.jetbrains.com/issue/IDEA-165262
+* ~~https://youtrack.jetbrains.com/issue/IDEA-165262~~ FIXED
 * https://youtrack.jetbrains.com/issue/IDEA-159349
 * https://youtrack.jetbrains.com/issue/IDEA-145065
 
 ## jackson-databind
 
 * https://github.com/FasterXML/jackson-databind/issues/1546
+
+## gradle-completion
+
+* https://github.com/gradle/gradle-completion/issues/22
