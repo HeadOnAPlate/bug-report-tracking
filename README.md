@@ -22,4 +22,4 @@ Overview of opened issues, so I don't forget about these
 
 ## gradle-completion
 
-* https://github.com/gradle/gradle-completion/issues/22 PR submitted
+* ~~https://github.com/gradle/gradle-completion/issues/22~~ PR merged FIXED
