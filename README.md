@@ -12,7 +12,7 @@ Overview of opened issues, so I don't forget about these
 
 ## jetbrains
 
-* https://youtrack.jetbrains.com/issue/IDEA-165262 FIXED for basic case only :(
+* ~~https://youtrack.jetbrains.com/issue/IDEA-165262~~ FIXED
 * https://youtrack.jetbrains.com/issue/IDEA-159349
 * https://youtrack.jetbrains.com/issue/IDEA-145065
 
