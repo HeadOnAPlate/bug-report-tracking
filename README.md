@@ -4,7 +4,7 @@ Overview of opened issues, so I don't forget about these
 
 ## jersey
 
-* https://java.net/jira/browse/JERSEY-3227
+* https://github.com/jersey/jersey/issues/3499
 
 ## spring framework
 
