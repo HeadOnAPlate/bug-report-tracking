@@ -13,7 +13,6 @@ Overview of opened issues, so I don't forget about these
 ## jetbrains
 
 * https://youtrack.jetbrains.com/issue/IDEA-177705
-* ~~https://youtrack.jetbrains.com/issue/IDEA-165262~~ FIXED
 * https://youtrack.jetbrains.com/issue/IDEA-159349
 * https://youtrack.jetbrains.com/issue/IDEA-145065
 
@@ -21,6 +20,6 @@ Overview of opened issues, so I don't forget about these
 
 * https://github.com/FasterXML/jackson-databind/issues/1546
 
-## gradle-completion
+## enunciate
 
-* ~~https://github.com/gradle/gradle-completion/issues/22~~ PR merged FIXED
+* https://github.com/stoicflame/enunciate/issues/805
