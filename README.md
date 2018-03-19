@@ -13,7 +13,6 @@ Overview of opened issues, so I don't forget about these
 ## jetbrains
 
 * https://youtrack.jetbrains.com/issue/IDEA-177705
-* https://youtrack.jetbrains.com/issue/IDEA-159349
 * https://youtrack.jetbrains.com/issue/IDEA-145065
 
 ## jackson-databind
