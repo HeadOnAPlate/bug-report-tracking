@@ -4,9 +4,7 @@ Overview of opened issues, so I don't forget about these
 
 ## jersey
 
-Currently being migrated to https://projects.eclipse.org/projects/ee4j.jersey
-
-* https://github.com/jersey/jersey/issues/3499
+* https://github.com/eclipse-ee4j/jersey/issues/3499
 
 ## spring framework
 
