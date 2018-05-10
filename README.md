@@ -19,7 +19,3 @@ Overview of opened issues, so I don't forget about these
 ## jackson-databind
 
 * https://github.com/FasterXML/jackson-databind/issues/1546
-
-## enunciate
-
-* https://github.com/stoicflame/enunciate/issues/805
