@@ -12,7 +12,6 @@ Overview of opened issues, so I don't forget about these
 
 ## jetbrains
 
-* https://youtrack.jetbrains.com/issue/IDEA-177705
 * https://youtrack.jetbrains.com/issue/IDEA-145065
 * https://youtrack.jetbrains.com/issue/IDEA-183049
 
