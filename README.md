@@ -6,10 +6,6 @@ Overview of opened issues, so I don't forget about these
 
 * https://github.com/eclipse-ee4j/jersey/issues/3499
 
-## spring framework
-
-* https://jira.spring.io/browse/SPR-11454
-
 ## jetbrains
 
 * https://youtrack.jetbrains.com/issue/IDEA-145065
